@@ -4,3 +4,6 @@ git_kata_11_exercise
 
 exercise git kata 13
 merge & conflict
+
+from russia with love
+KGB
