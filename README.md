@@ -1,1 +1,2 @@
 # Git Kata Exercises
+hello
