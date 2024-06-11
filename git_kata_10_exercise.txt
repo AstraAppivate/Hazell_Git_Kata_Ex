@@ -1,3 +1,6 @@
 git_kata_10_exercise.txt
 Test
 git_kata_11_exercise
+
+exercise git kata 13
+merge & conflict
